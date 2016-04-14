@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-mtg"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Luke Lancaster"]
   spec.email         = ["luketlancaster@gmail.com"]
   spec.description   = "Lita plugin that returns a magic card!"
