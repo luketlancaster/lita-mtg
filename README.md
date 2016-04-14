@@ -1,6 +1,6 @@
 # lita-mtg
 
-TODO: Add a description of the plugin.
+Go get you a magic card! Hook this into your working Lita install, say "lita mtg {cardname}" and get a card back!
 
 ## Installation
 
@@ -10,10 +10,10 @@ Add lita-mtg to your Lita instance's Gemfile:
 gem "lita-mtg"
 ```
 
-## Configuration
-
-TODO: Describe any configuration attributes the plugin exposes.
-
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+Commands:
+
+`lita mtg "ambush viper"`
+
+Returns a link to the image!
