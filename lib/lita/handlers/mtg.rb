@@ -1,5 +1,4 @@
 require 'mtg_sdk'
-require 'pry'
 
 module Lita
   module Handlers
