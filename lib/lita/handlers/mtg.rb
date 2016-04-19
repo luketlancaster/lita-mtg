@@ -7,7 +7,7 @@ module Lita
       attr_accessor :card
 
       route(/mtg\s+(.*)?/i, :go_get_card, command: true, help: {
-        'mtg me' => 'asks for a card'
+        'mtg' => 'asks for a card by name, use double quotes if the incorrect card shows up'
       })
 
 
